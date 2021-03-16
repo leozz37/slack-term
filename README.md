@@ -1,6 +1,8 @@
 slack-term
 ==========
 
+[![Build](https://github.com/leozz37/slack-term/actions/workflows/go.yml/badge.svg)](https://github.com/VinGarcia/slack-term/actions/workflows/go.yml)
+
 A [Slack](https://slack.com) client for your terminal.
 
 ![Screenshot](/screenshot.png?raw=true)
